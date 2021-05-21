@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Enjoy anywhere without a sweat.",
+    "subTitle": "Watch on smart TVs, mobile phones, laptops and more.",
+    "image": "/images/misc/home-tv.jpg",
+    "alt": "Tiger King on Netflix",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Watch as much as you want, any time you want.",
+    "subTitle": "Surf through a catalog of trailers of feature films, TV programmes, documentaries and more to your heart's content.",
+    "image": "/images/misc/home-mobile.jpg",
+    "alt": "Watch on mobile",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Up-to-date  everytime.",
+    "subTitle": "Get to watch trailers of up and coming movies in mere seconds and get on the hype train.",
+    "image": "/images/misc/home-imac.jpg",
+    "alt": "Money Heist on Netflix",
+    "direction": "row"
+  }
+]
